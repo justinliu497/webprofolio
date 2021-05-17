@@ -9,7 +9,7 @@
 
 ---
 [Project 2 - Fearless Taylor Version](/pdf/sample_presentation.pdf)
-<img src="imgages/Battan-FearlessTaylorsVersion.png"/>
+<img src="images/Battan-FearlessTaylorsVersion.png"/>
 
 ---
 [Project 3 - Earth Day Project](http://example.com/)
@@ -33,7 +33,7 @@
 
 ---
 [Project 8 - Celebrity Project](http://example.com/)
-<img src="photo-1516238840914-94dfc0c873ae_ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.jpg"/>
+<img src="images/photo-1516238840914-94dfc0c873ae_ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.jpg"/>
 
 ---
 ### Category Name 2
